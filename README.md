@@ -1,4 +1,4 @@
--# 👋 Hi, I’m Edson
+-# 👋 Hi, I’m Edson Cuna
 
 I'm passionate about technology and education, with a focus on Software Development ,Software Engineering, Data Science, and Data Engineering. 
 I enjoy working on projects that involve programming, and I'm always eager to learn and grow.
