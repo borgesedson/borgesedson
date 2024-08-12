@@ -11,7 +11,7 @@ I enjoy working on projects that involve programming, and I'm always eager to le
 - Software Development
 - Data Science & Engineering
 - Artificial Intelligence
-- Biomediacal Engineering
+- Biomedical Engineering
 
 ## 💞️ Collaboration
 I'm looking to collaborate on exciting projects related to:
