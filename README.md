@@ -1,10 +1,10 @@
 -# 👋 Hi, I’m Edson Cuna
 
-I'm passionate about technology and education, with a focus on Software Development ,Software Engineering, Data Science, and Data Engineering. 
+I'm passionate about technology and education, with a focus on Software Development.
 I enjoy working on projects that involve programming, and I'm always eager to learn and grow.
 
 ## 🌱 Currently Learning
--Full Stack Development: Exploring both front-end and back-end technologies to become a versatile developer.
+-Full Stack Development: Exploring both front-end and back-end technologies , but with focus in Backend in Python , Java and C# .
 - Python & Data Science: Enhancing my skills in data analysis and machine learning.
 
 ## 👀 Areas of Interest
