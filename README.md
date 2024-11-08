@@ -9,14 +9,12 @@ I enjoy working on projects that involve programming, and I'm always eager to le
 
 ## 👀 Areas of Interest
 - Software Development
-- Data Science & Engineering
+- Data Science & Software Engineering
 - Artificial Intelligence
-- Biomedical Engineering
 
 ## 💞️ Collaboration
 I'm looking to collaborate on exciting projects related to:
 - Open Source Programming
-- Data Science Projects
 - Web Development
 - Educational Projects
 - Community Building
