@@ -4,13 +4,12 @@ I'm passionate about technology and education, with a focus on Software Developm
 I enjoy working on projects that involve programming, and I'm always eager to learn and grow.
 
 ## 🌱 Currently Learning
--Full Stack Development: Exploring both front-end and back-end technologies , but with focus in Backend in Python , Java and C# .
-- Python & Data Science: Enhancing my skills in data analysis and machine learning.
+-Full Stack Development: Exploring both front-end and back-end technologies , but with focus in Backend in Java.
+
 
 ## 👀 Areas of Interest
 - Software Development
-- Data Science & Software Engineering
-- Artificial Intelligence
+- Front and Backend 
 
 ## 💞️ Collaboration
 I'm looking to collaborate on exciting projects related to:
